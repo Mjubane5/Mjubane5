@@ -1,21 +1,24 @@
 # Hi there, I'm Mpilwenhle! 👋
 
-I am a final-year **BSc Computer Science and Applied Mathematics** student specializing in Cloud Security, Cryptography, and High-Performance Computing (HPC). I build tools that protect enterprise infrastructure.
+I am a final-year **BSc Computer Science and Applied Mathematics** dual-major specializing in backend enterprise development, secure cloud infrastructure, and algorithmic logic. I build clean, maintainable backend architectures and distributed systems.
 
 ### 🔐 What I'm currently focused on:
-- **Cloud Security:** Architecting secure, least-privilege environments on AWS.
-- **Threat Detection:** Building Python-based File Integrity Monitors and cryptographic scripts.
-- **Certifications:** Actively preparing for the CompTIA Security+ (SY0-701) and AWS Solutions Architect.
+- **Backend Development:** Architecting robust RESTful APIs using Java and Spring Boot.
+- **Cloud & DevOps:** Containerizing applications with Docker and managing event streaming with Apache Kafka.
+- **Infrastructure:** Optimizing Linux environments and writing Bash/Shell scripts.
 
 ### 🏆 Milestones:
-- **National Competitor:** CSIR Student Cluster Competition (Optimizing hardware and Linux nodes for maximum computational throughput).
+- **National Competitor:** CSIR Student Cluster Competition (Optimizing hardware and distributed Linux clusters for maximum computational throughput).
 
 ### 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📫 Let's Connect:
-* **LinkedIn:** https://www.linkedin.com/in/mpilwenhle-jubane-0a90b6271/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqlQRzUvWTt%2BPxtDhOxQCtg%3D%3D
+- **LinkedIn:** [Mpilwenhle Jubane](https://www.linkedin.com/in/mpilwenhle-jubane-0a90b6271/)
