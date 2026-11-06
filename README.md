@@ -6,7 +6,7 @@ Final-year **BSc Computer Science & Applied Mathematics** student at the Univers
 
 | Project | What it is | Stack |
 |---|---|---|
-| [UFH Safety Platform](https://github.com/Mjubane5/ufh-safety-platform) | Capstone project: a student safety, emergency & wellness platform with SOS reporting, safe routing and live campus maps. I worked on the frontend team of an eight-person group. | JavaScript, Spring Boot, MySQL, Leaflet |
+| [UFH Safety Platform](https://github.com/Mjubane5/ufh-safety-platform) · [live demo](https://ufh-safety-platform.onrender.com) | Capstone project: a student safety, emergency & wellness platform with SOS reporting, safe routing and live campus maps. I worked on the frontend team of an eight-person group. | JavaScript, Spring Boot, MySQL, Leaflet |
 | [Course Management REST API](https://github.com/Mjubane5/Course-Management-REST-API) | Spring Boot REST API for university course management, with JSR-380 validation and an HTML5 frontend | Java, Spring Boot, H2 |
 | [ResourceHub](https://github.com/Mjubane5/Android-Textbook-Exchange) | Native Android peer-to-peer textbook marketplace for UFH students | Java, Android, SQLite, Material 3 |
 | [SentinelHash](https://github.com/Mjubane5/SentinelHash) | File integrity monitor using SHA-256 hashing, with a web dashboard | Python |
